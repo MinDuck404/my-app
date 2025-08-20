@@ -1,4 +1,4 @@
-// pages/movies/[id].vue - Trang chi tiết phim với SEO động
+
 <template>
   <div class="movie-detail">
     <!-- Hero Section -->
